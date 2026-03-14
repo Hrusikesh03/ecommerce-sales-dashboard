@@ -24,9 +24,6 @@ The dataset contains sales transactions including:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
+![Sales Analysis](salesanalysis.png)
 
-![Sales Trend](sales_trend.png)
-
-![Category Analysis](category_analysis.png)
 
