@@ -12,7 +12,8 @@ This project analyzes e-commerce sales data and builds an interactive Power BI d
 - Dariy product & Fresh Vegetables contribute 45% of total sales
 - Weekend orders are 30% higher
 - Top 10 products generate 38% revenue
-- Treand of order in hourly basis 
+- Treand of order in hourly basis
+- Reorder Rate 
 
 ## Dataset
 The dataset contains sales transactions including:
